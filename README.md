@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JPitman26/JPitman26/output/snake.svg" alt="Snake animation" />
+
 
 ###
